@@ -2,6 +2,9 @@
 
 ### Dashboard Link : https://app.powerbi.com/links/RIYV7JtXgt?ctid=91577f61-0170-494b-a390-0f33a2bb8755&pbi_source=linkShare
 
+## Dashboard Walkthrough
+[Watch the Dashboard Demo on YouTube](https://youtu.be/6PD6AuQYC7w)
+
 ## Problem Statement
 
 This dashboard analyzes **UPI (Unified Payments Interface) transaction data for the year 2024** across multiple Indian cities. It helps businesses and analysts understand transaction volume trends, city-wise and currency-wise transaction amounts, remaining balances, and customer spending patterns across different demographics, payment methods, and merchant categories.
